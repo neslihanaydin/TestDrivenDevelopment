@@ -1,0 +1,17 @@
+
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+A
+java:S1481"(Remove this unused "gun" local variable.(à†šùÿÿÿÿ
+Z
+java:S1854"FRemove this useless assignment to local variable "vadesizHesapBakiye".(°÷şÀ
+K
+java:S1481"7Remove this unused "vadesizHesapBakiye" local variable.(°÷şÀ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Û¸é»úÿÿÿÿ
+P
+java:S1854"7Remove this useless assignment to local variable "gun".(à†šùÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+0
+java:S1220""Move this file to a named package.
